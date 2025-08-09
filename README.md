@@ -18,7 +18,7 @@ include(FetchContent)
 
 FetchContent_Declare(
     mlog
-    GIT_REPOSITORY https://github.com/username/mlog.git
+    GIT_REPOSITORY https://github.com/s-ginger/mlog
     GIT_TAG main
 )
 
